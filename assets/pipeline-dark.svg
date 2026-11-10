@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="442" viewBox="0 0 1000 442" role="img" aria-labelledby="title">
+<title id="title">Murat Boy — 5-Stage CPU Pipeline Profile</title>
+<style>
+text{white-space:pre}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.fg{fill:#f0f6fc}.tx{fill:#d1d7e0}.mu{fill:#9198a1}.sep{fill:#6e7681}
+.hl{fill:#7ee787;font-weight:700}.num{fill:#f0f6fc;font-weight:700}.k{fill:#79c0ff;font-weight:700}
+.in{animation:in .55s cubic-bezier(.2,.7,.2,1) backwards}
+@keyframes in{from{opacity:0;transform:translateY(6px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.pkt{animation:flow 3.6s linear infinite}
+.pkt2{animation:flow 3.6s linear 1.8s infinite}
+@keyframes flow{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(760px);opacity:0}}
+.alu-pulse{animation:apulse 2.4s ease-in-out infinite}
+@keyframes apulse{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
+.clk-dot{animation:cblink 1.2s steps(2,end) infinite}
+@keyframes cblink{50%{opacity:.25}}
+</style>
+<defs><clipPath id="pwin"><rect width="1000" height="442" rx="12"/></clipPath><linearGradient id="pbus" x1="0" x2="1"><stop offset="0" stop-color="#56d4dd"/><stop offset=".5" stop-color="#7ee787"/><stop offset="1" stop-color="#d2a8ff"/></linearGradient></defs>
+<g clip-path="url(#pwin)"><rect width="1000" height="442" fill="#0d1117"/><rect width="1000" height="42" fill="#151b23"/><rect y="42" width="1000" height="1" fill="#3d444d"/></g>
+<rect x=".5" y=".5" width="999" height="441" rx="11.5" fill="none" stroke="#3d444d"/>
+<rect x="18" y="11" width="10" height="20" rx="2" fill="#56d4dd"/>
+<text x="36" y="26" class="mono fg" font-size="13" font-weight="700">ARCH: MURAT-RISC64 PIPELINE</text>
+<text x="275" y="26" class="mono mu" font-size="12">5-Stage Datapath · Forwarding: ON · Predictor: NOMAD</text>
+<text x="980" y="26" text-anchor="end" class="mono mu" font-size="12">UPTIME: <tspan class="hl">11Y</tspan> · IPC: <tspan class="fg">12 REPOS / 14★</tspan></text>
+<line x1="110" y1="200" x2="890" y2="200" stroke="url(#pbus)" stroke-width="2.5" stroke-dasharray="5 4" stroke-opacity=".7"/><circle class="pkt" cx="110" cy="200" r="4.5" fill="#7ee787"/><circle class="pkt2" cx="110" cy="200" r="4.5" fill="#56d4dd"/>
+<rect x="209" y="96" width="9" height="204" rx="3" fill="#151b23" stroke="#3d444d"/><text x="213.5" y="62" text-anchor="middle" class="mono mu" font-size="9.5">IF/ID</text>
+<g class="in" style="animation-delay:0.08s"><rect x="32" y="68" width="172" height="246" rx="9" fill="#151b23" stroke="#3d444d" stroke-width="1"/><rect x="32" y="68" width="172" height="32" rx="9" fill="#56d4dd" fill-opacity=".14"/><text x="42" y="89" class="mono" font-size="13.5" font-weight="700" fill="#56d4dd">[IF]</text><text x="82" y="88" class="sans fg" font-size="12" font-weight="700">Instruction Fetch</text><text x="44" y="118" class="mono mu" font-size="11">PC → 0x2015_2026</text><line x1="44" y1="126" x2="192" y2="126" stroke="#3d444d" stroke-opacity=".6"/>
+<text x="44" y="146" class="mono mu" font-size="11">Name:</text><text x="94" y="146" class="mono tx" font-size="11">Murat Boy</text>
+<text x="44" y="171" class="mono mu" font-size="11">Role:</text><text x="94" y="171" class="mono tx" font-size="11">Computer Eng.</text>
+<text x="44" y="196" class="mono mu" font-size="11">OS:</text><text x="94" y="196" class="mono tx" font-size="11">Pardus</text>
+<text x="44" y="221" class="mono mu" font-size="11">Shell:</text><text x="94" y="221" class="mono tx" font-size="11">fish · VS Code</text>
+<text x="44" y="246" class="mono mu" font-size="11">Domain:</text><text x="94" y="246" class="mono tx" font-size="11">CPU Arch · Apps</text>
+<text x="44" y="271" class="mono mu" font-size="11">Scope:</text><text x="94" y="271" class="mono tx" font-size="11">ASM → Flutter</text>
+</g>
+<rect x="400" y="96" width="9" height="204" rx="3" fill="#151b23" stroke="#3d444d"/><text x="404.5" y="62" text-anchor="middle" class="mono mu" font-size="9.5">ID/EX</text>
+<g class="in" style="animation-delay:0.18s"><rect x="223" y="68" width="172" height="246" rx="9" fill="#151b23" stroke="#3d444d" stroke-width="1"/><rect x="223" y="68" width="172" height="32" rx="9" fill="#79c0ff" fill-opacity=".14"/><text x="233" y="89" class="mono" font-size="13.5" font-weight="700" fill="#79c0ff">[ID]</text><text x="273" y="88" class="sans fg" font-size="12" font-weight="700">Decode / RegFile</text><text x="235" y="118" class="mono mu" font-size="11">Registers $r0–$r3</text><line x1="235" y1="126" x2="383" y2="126" stroke="#3d444d" stroke-opacity=".6"/>
+<text x="235" y="146" class="mono mu" font-size="11">$r0</text><text x="261" y="146" class="mono tx" font-size="11.5" font-weight="600">Dart</text><text x="383" y="146" text-anchor="end" class="mono mu" font-size="11">47%</text><rect x="235" y="151" width="148" height="5" rx="2.5" fill="#3d444d" fill-opacity=".4"/><rect x="235" y="151" width="69" height="5" rx="2.5" fill="#00B4AB"/>
+<text x="235" y="182" class="mono mu" font-size="11">$r1</text><text x="261" y="182" class="mono tx" font-size="11.5" font-weight="600">Python</text><text x="383" y="182" text-anchor="end" class="mono mu" font-size="11">20%</text><rect x="235" y="187" width="148" height="5" rx="2.5" fill="#3d444d" fill-opacity=".4"/><rect x="235" y="187" width="29" height="5" rx="2.5" fill="#3572A5"/>
+<text x="235" y="218" class="mono mu" font-size="11">$r2</text><text x="261" y="218" class="mono tx" font-size="11.5" font-weight="600">Assembly</text><text x="383" y="218" text-anchor="end" class="mono mu" font-size="11">10%</text><rect x="235" y="223" width="148" height="5" rx="2.5" fill="#3d444d" fill-opacity=".4"/><rect x="235" y="223" width="14" height="5" rx="2.5" fill="#6E4C13"/>
+<text x="235" y="254" class="mono mu" font-size="11">$r3</text><text x="261" y="254" class="mono tx" font-size="11.5" font-weight="600">Jupyter</text><text x="383" y="254" text-anchor="end" class="mono mu" font-size="11">10%</text><rect x="235" y="259" width="148" height="5" rx="2.5" fill="#3d444d" fill-opacity=".4"/><rect x="235" y="259" width="14" height="5" rx="2.5" fill="#DA5B0B"/>
+<text x="235" y="300" class="mono mu" font-size="10.5">ISA: Dart · Py · C · ASM</text>
+</g>
+<rect x="591" y="96" width="9" height="204" rx="3" fill="#151b23" stroke="#3d444d"/><text x="595.5" y="62" text-anchor="middle" class="mono mu" font-size="9.5">EX/MEM</text>
+<g class="in" style="animation-delay:0.28s"><rect x="414" y="68" width="172" height="246" rx="9" fill="#151b23" stroke="#7ee787" stroke-width="2" class="alu-pulse"/><rect x="414" y="68" width="172" height="32" rx="9" fill="#7ee787" fill-opacity=".14"/><text x="424" y="89" class="mono" font-size="13.5" font-weight="700" fill="#7ee787">[EX]</text><text x="464" y="88" class="sans fg" font-size="12" font-weight="700">Execute (ALU)</text><text x="426" y="118" class="mono mu" font-size="11">ACTIVE THREAD</text><line x1="426" y1="126" x2="574" y2="126" stroke="#3d444d" stroke-opacity=".6"/>
+<rect x="426" y="134" width="148" height="24" rx="5" fill="#7ee787" fill-opacity=".12" stroke="#7ee787" stroke-opacity=".35"/><circle cx="437" cy="146" r="4" fill="#7ee787"/><text x="447" y="150" class="mono hl" font-size="12">envanter</text><text x="426" y="176" class="sans tx" font-size="11">Visual inventory for home,</text><text x="426" y="193" class="sans mu" font-size="11">workshop and small</text><text x="426" y="210" class="sans mu" font-size="11">libraries. No cloud: data sta…</text><text x="426" y="240" class="mono mu" font-size="11">Lang: <tspan class="tx">Dart</tspan></text><text x="426" y="260" class="mono mu" font-size="11">Push: <tspan class="hl">yesterday</tspan></text><text x="426" y="300" class="mono mu" font-size="10.5">ALU STATUS: ZERO_STALL</text>
+</g>
+<rect x="782" y="96" width="9" height="204" rx="3" fill="#151b23" stroke="#3d444d"/><text x="786.5" y="62" text-anchor="middle" class="mono mu" font-size="9.5">MEM/WB</text>
+<g class="in" style="animation-delay:0.38s"><rect x="605" y="68" width="172" height="246" rx="9" fill="#151b23" stroke="#3d444d" stroke-width="1"/><rect x="605" y="68" width="172" height="32" rx="9" fill="#ffa657" fill-opacity=".14"/><text x="615" y="89" class="mono" font-size="13.5" font-weight="700" fill="#ffa657">[MEM]</text><text x="663" y="88" class="sans fg" font-size="12" font-weight="700">L1 Cache (Work)</text><text x="617" y="118" class="mono mu" font-size="11">Selected Repos</text><line x1="617" y1="126" x2="765" y2="126" stroke="#3d444d" stroke-opacity=".6"/>
+<text x="617" y="146" class="mono mu" font-size="10.5">0x00</text><text x="649" y="146" class="mono fg" font-size="11.5" font-weight="600">Mibs-Assembly</text><text x="649" y="161" class="mono mu" font-size="10.5">Assembly · ★11</text>
+<text x="617" y="184" class="mono mu" font-size="10.5">0x04</text><text x="649" y="184" class="mono fg" font-size="11.5" font-weight="600">Veri-Yapilari</text><text x="649" y="199" class="mono mu" font-size="10.5">C · ★1</text>
+<text x="617" y="222" class="mono mu" font-size="10.5">0x08</text><text x="649" y="222" class="mono fg" font-size="11.5" font-weight="600">distronomad</text><text x="649" y="237" class="mono mu" font-size="10.5">Python · 2026</text>
+<text x="617" y="260" class="mono mu" font-size="10.5">0x0C</text><text x="649" y="260" class="mono fg" font-size="11.5" font-weight="600">bilge</text><text x="649" y="275" class="mono mu" font-size="10.5">Dart · 2026</text>
+<text x="617" y="300" class="mono mu" font-size="10.5">L1 HIT: 100% · 12 repos</text>
+</g>
+<g class="in" style="animation-delay:0.48s"><rect x="796" y="68" width="172" height="246" rx="9" fill="#151b23" stroke="#3d444d" stroke-width="1"/><rect x="796" y="68" width="172" height="32" rx="9" fill="#d2a8ff" fill-opacity=".14"/><text x="806" y="89" class="mono" font-size="13.5" font-weight="700" fill="#d2a8ff">[WB]</text><text x="846" y="88" class="sans fg" font-size="12" font-weight="700">Write-Back</text><text x="808" y="118" class="mono mu" font-size="11">Output &amp; Blog</text><line x1="808" y1="126" x2="956" y2="126" stroke="#3d444d" stroke-opacity=".6"/>
+<text x="808" y="146" class="mono mu" font-size="11">Public Repos:</text><text x="956" y="146" text-anchor="end" class="mono num" font-size="11">12</text>
+<text x="808" y="170" class="mono mu" font-size="11">Stargazers:</text><text x="956" y="170" text-anchor="end" class="mono num" font-size="11">14 ★</text>
+<text x="808" y="194" class="mono mu" font-size="11">Followers:</text><text x="956" y="194" text-anchor="end" class="mono num" font-size="11">34</text>
+<text x="808" y="218" class="mono mu" font-size="11">Learned Forks:</text><text x="956" y="218" text-anchor="end" class="mono num" font-size="11">11</text>
+<line x1="808" y1="234" x2="956" y2="234" stroke="#3d444d" stroke-opacity=".5"/><text x="808" y="252" class="mono" font-size="11" font-weight="700" fill="#d2a8ff">Blog · Sella Turcica</text><text x="808" y="269" class="sans mu" font-size="11">• Sniper CPU Simulator</text><text x="808" y="285" class="sans mu" font-size="11">• Interval Simulation</text><text x="808" y="301" class="sans mu" font-size="11">• Quantum &amp; Cloud</text>
+</g>
+<rect x="32" y="330" width="936" height="90" rx="9" fill="#151b23" stroke="#3d444d"/>
+<text x="48" y="356" class="mono k" font-size="11.5">CLK</text>
+<polyline points="88,359 88,346 100,346 100,359 112,359 112,346 124,346 124,359 136,359 136,346 148,346 148,359 160,359 160,346 172,346 172,359 184,359 184,346 196,346 196,359 208,359 208,346 220,346 220,359 232,359 232,346 244,346 244,359 256,359 256,346 268,346 268,359 280,359 280,346 292,346 292,359 304,359 304,346 316,346 316,359 328,359 328,346 340,346 340,359" fill="none" stroke="#7ee787" stroke-width="1.6"/>
+<circle class="clk-dot" cx="368" cy="352" r="4" fill="#7ee787"/>
+<text x="384" y="356" class="mono mu" font-size="11.5">FORWARDING UNIT: <tspan class="tx">EX/MEM → ALU (low-level architecture feeds high-level tools)</tspan></text>
+<line x1="48" y1="374" x2="952" y2="374" stroke="#3d444d" stroke-opacity=".6"/>
+<text x="48" y="395" class="mono mu" font-size="11.5">TRACE: <tspan fill="#ffa657">[2017] LW $s0, mips_asm</tspan> → <tspan fill="#79c0ff">[2018] ADD $s1, c_structs</tspan> → <tspan fill="#d2a8ff">[2022] JAL flutter_apps</tspan> → <tspan class="hl">[NOW] SYSCALL envanter</tspan></text>
+<text x="48" y="411" class="mono mu" font-size="10.5">github.com/muratboy · plexuschoroideus.blogspot.com</text>
+</svg>

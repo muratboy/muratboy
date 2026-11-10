@@ -1,0 +1,57 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Profil ayarları — kişisel bilgilerin tek kaynağı burası.
+#
+#  Değiştirdikten sonra yerelde:   python3 scripts/build.py
+#  GitHub'da bu dosyayı düzenleyip push'larsan Action kendisi yeniden üretir.
+# ─────────────────────────────────────────────────────────────────────────────
+
+[github]
+user    = "muratboy"
+branch  = "main"                # profil reposunun (muratboy/muratboy) varsayılan dalı
+concept = "pipeline"            # "terminal" | "man" | "pipeline" | "boot" | "nomad"
+
+# En üstteki terminal kartı ─ "murat@nomad ~> whoami --verbose"
+[terminal]
+name    = "Murat Boy"
+user    = "murat"
+host    = "nomad"               # distronomad'a selam
+command = "whoami --verbose"
+
+# Kartta görünen satırlar, yukarıdan aşağı. "@" ile başlayanlar otomatik dolar:
+#   @building  → şu an üzerinde çalıştığın proje (en son push'ladığın repo)
+#   @uptime    → GitHub'da geçen süre
+#   @stats     → proje / yıldız / takipçi sayıları
+#   @contribs  → son bir yıldaki katkılar (contributions_min altındaysa gizlenir)
+lines = [
+  ["Role",      "Computer engineer"],
+  ["Setup",     "Pardus · fish · VS Code"],
+  ["Stack",     "Dart & Flutter · Python · C · Assembly"],
+  ["Interests", "Offline-first apps · Linux tooling · CPU architecture"],
+  ["Building",  "@building"],
+  ["Uptime",    "@uptime"],
+  ["GitHub",    "@stats"],
+  ["Activity",  "@contribs"],
+]
+contributions_min = 100         # katkılar bu sayıya ulaşınca satır kendiliğinden görünür
+
+[projects]
+spotlight = "auto"              # "auto" = son bir yılda açılmış repolardan en son push'lanan · ya da bir repo adı
+featured = [                    # "Selected work" kartları, sırayla (spotlight'taki repo atlanır, sıradaki gelir)
+  "Bilgisayar-Organizasyonu_Mibs-Assembly-Ornekleri",
+  "Veri-Yapilari",
+  "distronomad",
+  "bilge",
+  "seyir",
+  "envanter",
+  "nlp-project",
+]
+featured_count = 6              # listede eksik kalırsa en çok yıldızlı repolarla tamamlanır
+exclude = []                    # hiçbir yerde görünmesini istemediğin repolar
+
+# Profilde repo açıklamasından farklı bir metin göstermek istersen:
+[projects.descriptions]
+ayna = "A tiny Flutter app that turns your phone into a mirror."
+
+[writing]
+feed  = "https://plexuschoroideus.blogspot.com/feeds/posts/default"   # RSS veya Atom
+count = 4

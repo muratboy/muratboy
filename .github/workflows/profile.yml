@@ -1,0 +1,45 @@
+# Profil kartlarını ve README'nin otomatik bölgelerini günceller.
+# Yalnızca gerçekten bir şey değiştiyse commit atar.
+name: Profili güncelle
+
+on:
+  schedule:
+    - cron: "17 4 * * *"          # her gün 04:17 UTC (07:17 TSİ)
+  workflow_dispatch:               # Actions sekmesinden elle çalıştırmak için
+  push:
+    branches: [main]
+    paths:
+      - profile.toml
+      - scripts/**
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Kartları ve README'yi üret
+        run: python3 scripts/build.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Değişiklik varsa commit'le
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: profil kartlarını güncelle"
+          git push

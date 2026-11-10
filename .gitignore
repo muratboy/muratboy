@@ -1,0 +1,4 @@
+# yerel önizleme ve API önbelleği — repoya girmez
+preview.html
+.cache/
+__pycache__/
