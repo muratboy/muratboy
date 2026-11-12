@@ -15,7 +15,7 @@ text{white-space:pre}
 <rect x="32" y="26" width="143" height="26" rx="13" fill="#7ee787" fill-opacity=".1" stroke="#7ee787" stroke-opacity=".35"/>
 <circle class="pulse" cx="47" cy="39" r="4.5" fill="#7ee787" opacity="0"/><circle cx="47" cy="39" r="4.5" fill="#7ee787"/>
 <text x="60" y="43.5" class="mono" font-size="12" font-weight="700" letter-spacing="1.4" fill="#7ee787">NOW BUILDING</text>
-<text x="968" y="44" text-anchor="end" class="mono mu" font-size="13">pushed 2 days ago</text>
+<text x="968" y="44" text-anchor="end" class="mono mu" font-size="13">pushed 3 days ago</text>
 <rect x="32" y="72" width="66" height="66" rx="15.8" fill="url(#tile)"/><rect x="32.5" y="72.5" width="65" height="65" rx="15.3" fill="none" stroke="#ffffff" stroke-opacity=".18"/><text x="65.0" y="114.0" text-anchor="middle" class="mono" font-size="25" font-weight="700" fill="#ffffff">E</text>
 <text x="120" y="98" class="mono fg" font-size="27" font-weight="700">envanter</text>
 <text x="120" y="128" class="sans tx" font-size="16">Visual inventory for home, workshop and small libraries. No cloud: data stays on your phone and syncs with</text>
