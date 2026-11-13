@@ -7,7 +7,7 @@
 
 <!-- auto:whoami -->
 
-<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=fbd4dfc3"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=aacce542"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=aacce542" width="100%"></picture></a>
+<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=251a600b"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=2263f892"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=2263f892" width="100%"></picture></a>
 
 <!-- /auto:whoami -->
 
@@ -32,7 +32,7 @@ to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 
 <!-- auto:spotlight -->
 
-<a href="https://github.com/muratboy/envanter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=3567ab53"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=8b04c8d6"><img alt="Now building envanter: Visual inventory for home, workshop and small libraries. No cloud: data stays on your phone and syncs with nearby devices over Wi-Fi. QR labels, barcode scanning, expiry dates." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=8b04c8d6" width="100%"></picture></a>
+<a href="https://github.com/muratboy/envanter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=7c0a2c84"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=85be3efa"><img alt="Now building envanter: Visual inventory for home, workshop and small libraries. No cloud: data stays on your phone and syncs with nearby devices over Wi-Fi. QR labels, barcode scanning, expiry dates." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=85be3efa" width="100%"></picture></a>
 
 <!-- /auto:spotlight -->
 
