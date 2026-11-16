@@ -7,7 +7,7 @@
 
 <!-- auto:whoami -->
 
-<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=3371a8ff"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=920693a7"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=920693a7" width="100%"></picture></a>
+<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=348d53c7"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=38276227"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=38276227" width="100%"></picture></a>
 
 <!-- /auto:whoami -->
 
@@ -16,7 +16,7 @@
 **Architecture-first software engineering:** from hardware registers, **MIPS assembly** and **multicore processor simulation**<br>
 to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 
-<a href="https://plexuschoroideus.blogspot.com">✍️&nbsp;Blog (Sella Turcica)</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/muratboy?tab=repositories">📦&nbsp;All Repositories</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/muratboy/bilge_kurslar">⚡&nbsp;Active Thread: bilge_kurslar</a>
+<a href="https://plexuschoroideus.blogspot.com">✍️&nbsp;Blog (Sella Turcica)</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/muratboy?tab=repositories">📦&nbsp;All Repositories</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/muratboy/seyir">⚡&nbsp;Active Thread: seyir</a>
 
 <br>
 
@@ -32,7 +32,7 @@ to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 
 <!-- auto:spotlight -->
 
-<a href="https://github.com/muratboy/bilge_kurslar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=64c0ee33"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=20ba9fe9"><img alt="Now building bilge_kurslar: Community starter courses, bundles, and AI course templates (EN &amp; TR) for the Bilge learning app." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=20ba9fe9" width="100%"></picture></a>
+<a href="https://github.com/muratboy/seyir"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=acc29d2c"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=7f7390f0"><img alt="Now building seyir: Offline Android app for tracking activities, habits and goals: just log what you did, and your goals progress on their own." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=7f7390f0" width="100%"></picture></a>
 
 <!-- /auto:spotlight -->
 
@@ -45,7 +45,7 @@ to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 <br>
 <a href="https://github.com/muratboy/distronomad"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-distronomad-dark.svg?v=a2239df9"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-distronomad-light.svg?v=8e6a89f4"><img alt="distronomad: TUI/CLI tool to back up packages, settings and personal files before switching Linux distributions and restore them on the new system." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-distronomad-light.svg?v=8e6a89f4" width="49%"></picture></a> <a href="https://github.com/muratboy/bilge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-bilge-dark.svg?v=8654716f"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-bilge-light.svg?v=68745796"><img alt="bilge: Learn any topic level by level, through play. Any AI chat writes the course from a template, Bilge turns it into lessons. Offline Android app with no ads, accounts or tracking." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-bilge-light.svg?v=68745796" width="49%"></picture></a>
 <br>
-<a href="https://github.com/muratboy/seyir"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-seyir-dark.svg?v=a58df1ce"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-seyir-light.svg?v=2709c5eb"><img alt="seyir: Offline Android app for tracking activities, habits and goals: just log what you did, and your goals progress on their own." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-seyir-light.svg?v=2709c5eb" width="49%"></picture></a> <a href="https://github.com/muratboy/envanter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-envanter-dark.svg?v=40c1a0d6"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-envanter-light.svg?v=74f27250"><img alt="envanter: Visual inventory for home, workshop and small libraries. No cloud: data stays on your phone and syncs with nearby devices over Wi-Fi. QR labels, barcode scanning, expiry dates." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-envanter-light.svg?v=74f27250" width="49%"></picture></a>
+<a href="https://github.com/muratboy/envanter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-envanter-dark.svg?v=40c1a0d6"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-envanter-light.svg?v=74f27250"><img alt="envanter: Visual inventory for home, workshop and small libraries. No cloud: data stays on your phone and syncs with nearby devices over Wi-Fi. QR labels, barcode scanning, expiry dates." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-envanter-light.svg?v=74f27250" width="49%"></picture></a> <a href="https://github.com/muratboy/nlp-project"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-nlp-project-dark.svg?v=23b8191e"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-nlp-project-light.svg?v=6fa7cb9c"><img alt="nlp-project: Keyword extraction with NLP" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/card-nlp-project-light.svg?v=6fa7cb9c" width="49%"></picture></a>
 </p>
 
 <!-- /auto:featured -->
@@ -58,11 +58,11 @@ to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 
 | Project | About | Language | ★ | Updated |
 |:--|:--|:--|--:|:--:|
+| [seyir](https://github.com/muratboy/seyir) | Offline Android app for tracking activities, habits and goals: just log… | Dart |  | 2026 |
 | [bilge_kurslar](https://github.com/muratboy/bilge_kurslar) | Community starter courses, bundles, and AI course templates (EN &amp; TR) f… | — |  | 2026 |
 | [bilge](https://github.com/muratboy/bilge) | Learn any topic level by level, through play. Any AI chat writes the co… | Dart |  | 2026 |
 | [envanter](https://github.com/muratboy/envanter) | Visual inventory for home, workshop and small libraries. No cloud: data… | Dart |  | 2026 |
 | [spider-trap-example](https://github.com/muratboy/spider-trap-example) | Simple spider trap example for demonstration | Python |  | 2026 |
-| [seyir](https://github.com/muratboy/seyir) | Offline Android app for tracking activities, habits and goals: just log… | Dart |  | 2026 |
 | [distronomad](https://github.com/muratboy/distronomad) | TUI/CLI tool to back up packages, settings and personal files before sw… | Python |  | 2026 |
 | [ayna](https://github.com/muratboy/ayna) | A tiny Flutter app that turns your phone into a mirror. | Dart | 1 | 2023 |
 | [fluter_dark_theme](https://github.com/muratboy/fluter_dark_theme) | Dark Theme Toggle Example in Flutter | Dart |  | 2022 |
