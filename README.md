@@ -7,7 +7,7 @@
 
 <!-- auto:whoami -->
 
-<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=99b3f3ce"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=7e02efb8"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=7e02efb8" width="100%"></picture></a>
+<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=348d53c7"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=38276227"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=38276227" width="100%"></picture></a>
 
 <!-- /auto:whoami -->
 
@@ -32,7 +32,7 @@ to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 
 <!-- auto:spotlight -->
 
-<a href="https://github.com/muratboy/seyir"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=14f717b5"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=3cc99684"><img alt="Now building seyir: Offline Android app for tracking activities, habits and goals: just log what you did, and your goals progress on their own." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=3cc99684" width="100%"></picture></a>
+<a href="https://github.com/muratboy/seyir"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=acc29d2c"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=7f7390f0"><img alt="Now building seyir: Offline Android app for tracking activities, habits and goals: just log what you did, and your goals progress on their own." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=7f7390f0" width="100%"></picture></a>
 
 <!-- /auto:spotlight -->
 
