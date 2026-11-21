@@ -7,7 +7,7 @@
 
 <!-- auto:whoami -->
 
-<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=362cb532"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=cbbceab9"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=cbbceab9" width="100%"></picture></a>
+<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=3371a8ff"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=920693a7"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=920693a7" width="100%"></picture></a>
 
 <!-- /auto:whoami -->
 
@@ -32,7 +32,7 @@ to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 
 <!-- auto:spotlight -->
 
-<a href="https://github.com/muratboy/bilge_kurslar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=425376b4"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=9a318e02"><img alt="Now building bilge_kurslar: Community starter courses, bundles, and AI course templates (EN &amp; TR) for the Bilge learning app." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=9a318e02" width="100%"></picture></a>
+<a href="https://github.com/muratboy/bilge_kurslar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=64c0ee33"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=20ba9fe9"><img alt="Now building bilge_kurslar: Community starter courses, bundles, and AI course templates (EN &amp; TR) for the Bilge learning app." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=20ba9fe9" width="100%"></picture></a>
 
 <!-- /auto:spotlight -->
 
