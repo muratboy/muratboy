@@ -19,10 +19,10 @@ text{white-space:pre}
 <text x="118" y="62" class="mono fg" font-size="14.5" font-weight="700">murat</text>
 <text x="172" y="62" class="mono tx" font-size="14.5">— computer engineer · low-level systems, Linux tooling &amp; Flutter</text>
 <text x="24" y="90" class="mono k" font-size="13.5">STATUS</text>
-<text x="118" y="90" class="mono mu" font-size="13.5">uptime: <tspan class="tx">11 yrs (since Oct 2015)</tspan>  ·  daemon: <tspan class="hl">bilge_kurslar</tspan>  ·  host: <tspan class="tx">Pardus / fish</tspan>  ·  repos: <tspan class="num">13</tspan></text>
+<text x="118" y="90" class="mono mu" font-size="13.5">uptime: <tspan class="tx">11 yrs (since Oct 2015)</tspan>  ·  daemon: <tspan class="hl">bilge</tspan>  ·  host: <tspan class="tx">Pardus / fish</tspan>  ·  repos: <tspan class="num">13</tspan></text>
 <text x="24" y="118" class="mono k" font-size="13.5">LANGS</text>
 <rect x="118" y="110" width="460" height="7" rx="3.5" fill="#d1d9e0" fill-opacity=".35"/>
-<g clip-path="url(#mbar)"><rect x="118.0" y="110" width="213.7" height="7" fill="#00B4AB"/><rect x="333.7" y="110" width="90.0" height="7" fill="#3572A5"/><rect x="425.7" y="110" width="44.0" height="7" fill="#6E4C13"/><rect x="471.7" y="110" width="44.0" height="7" fill="#DA5B0B"/><rect x="517.7" y="110" width="46.0" height="7" fill="#555555"/></g>
+<g clip-path="url(#mbar)"><rect x="118.0" y="110" width="213.6" height="7" fill="#00B4AB"/><rect x="333.6" y="110" width="90.0" height="7" fill="#3572A5"/><rect x="425.6" y="110" width="44.0" height="7" fill="#6E4C13"/><rect x="471.6" y="110" width="44.0" height="7" fill="#DA5B0B"/><rect x="517.6" y="110" width="46.0" height="7" fill="#555555"/></g>
 <text x="594" y="118" class="mono mu" font-size="12">Dart 47% · Python 20% · Assembly 10% · Jupyter 10%</text>
 <text x="24" y="165" class="mono mu" font-size="12">Manual page murat(1) line 1/48 (press h for help or star a repo) — github.com/muratboy <tspan class="cur" fill="#1f2328">█</tspan></text>
 </svg>
