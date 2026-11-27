@@ -7,7 +7,7 @@
 
 <!-- auto:whoami -->
 
-<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=84e4bae5"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=821064b6"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=821064b6" width="100%"></picture></a>
+<a href="https://github.com/muratboy/muratboy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-dark.svg?v=b8a12982"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=41b2e8c6"><img alt="Murat Boy — 5-Stage CPU Pipeline Profile" src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/pipeline-light.svg?v=41b2e8c6" width="100%"></picture></a>
 
 <!-- /auto:whoami -->
 
@@ -32,7 +32,7 @@ to **C data structures**, **Python Linux tooling** and **Flutter** mobile apps.
 
 <!-- auto:spotlight -->
 
-<a href="https://github.com/muratboy/distronomad"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=6a26dcf3"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=7a9824be"><img alt="Now building distronomad: TUI/CLI tool to back up packages, settings and personal files before switching Linux distributions and restore them on the new system." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=7a9824be" width="100%"></picture></a>
+<a href="https://github.com/muratboy/distronomad"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-dark.svg?v=706dd95c"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=f4ecc8e6"><img alt="Now building distronomad: TUI/CLI tool to back up packages, settings and personal files before switching Linux distributions and restore them on the new system." src="https://raw.githubusercontent.com/muratboy/muratboy/main/assets/now-light.svg?v=f4ecc8e6" width="100%"></picture></a>
 
 <!-- /auto:spotlight -->
 
